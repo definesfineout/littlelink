@@ -94,6 +94,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Calendar */
+.button.button-calendar {
+  color: #000;
+  background-color: #fbfcfd;
+}
+.button.button-calendar:hover,
+.button.button-calendar:focus {
+  filter: brightness(90%);
+}
+
+
 /* Buy Me a Coffee */
 .button.button-coffee {
   color: #100a26;
@@ -471,7 +482,7 @@ button:hover,
 /* Website */
 .button.button-web {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #719;
 }
 .button.button-web:hover,
 .button.button-web:focus {
