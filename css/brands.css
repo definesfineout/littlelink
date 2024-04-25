@@ -1,3 +1,18 @@
+/* Added by Defines */
+.half-left {
+  text-align: right;
+}
+
+.half-mid {
+  width: 10px;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.half-right {
+  text-align: left;
+}
+
 /*
 * littlelink.io
 * Skeleton V2.0.4

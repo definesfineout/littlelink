@@ -97,15 +97,15 @@ h1 {
 }
 h1 {
   font-size: 24px;
-  line-height: 64px;
+  line-height: 48px;
   letter-spacing: 0;
 }
 
 /* Larger than phablet */
 @media (min-width: 550px) {
   h1 {
-    font-size: 48px;
-    line-height: 96px;
+    font-size: 36px;
+    line-height: 64px;
   }
 }
 
@@ -116,10 +116,14 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #0085ff;
+  color: #ea578a;
+  font-weight: 600;
+  text-decoration: none;
 }
 a:hover {
-  color: #0085ff;
+  color: #ea578a;
+  font-weight: 600;
+  text-decoration: underline;
 }
 
 /* Code
