@@ -1,6 +1,7 @@
 /* Added by Defines */
 .half-left {
   text-align: right;
+  width: 47%;
 }
 
 .half-mid {
@@ -11,6 +12,7 @@
 
 .half-right {
   text-align: left;
+  width: 47%;
 }
 
 /*
