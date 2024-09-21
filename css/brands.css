@@ -13,7 +13,7 @@
 .half-right {
   text-align: left;
   width: 47%;
-}
+} 
 
 /*
 * littlelink.io
@@ -94,10 +94,20 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #0085ff;
+  background-color: #ea578a;
 }
 .button.button-default:hover,
 .button.button-default:focus {
+  filter: brightness(90%);
+}
+
+/* Training */
+.button.button-training {
+  color: #ffffff;
+  background-color: #333;
+}
+.button.button-training:hover,
+.button.button-training:focus {
   filter: brightness(90%);
 }
 
